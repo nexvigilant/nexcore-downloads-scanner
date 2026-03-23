@@ -1,0 +1,15 @@
+
+[package]
+name = "nexcore-downloads-scanner"
+version = "0.1.0"
+edition = "2024"
+license = "LicenseRef-NexVigilant-Proprietary"
+description = "Downloads Intelligence Scanner - classifies files by NexVigilant Core relevance"
+
+[dependencies]
+
+[dev-dependencies]
+tempfile = "3"
+
+[lints]
+workspace = true
